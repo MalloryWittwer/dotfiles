@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mallory.wittwer@gmail.com
+	name = Mallory Wittwer
